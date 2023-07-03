@@ -7,6 +7,7 @@ Mod | Status | Texture Folder
 ----|------|----
 **Minecraft** | **In Progress** | **minecraft**
 Actually Additions | In Progress | actuallyadditions
+Advanced Solar Panels | In Progress | advanced_solar_panels
 Advanced Rocketry | Not Implemented | advancedrocketry
 AE2 Stuff | Not Implemented | ae2stuff
 Akashic Tome | In Progress | akashictome
@@ -85,6 +86,7 @@ Gadgetry Core | Not Implemented | gadgetrycore
 Gadgetry Machines | Not Implemented | gadgetrymachines
 Gendustry | Not Implemented | gendustry
 Gravestone | Not Implemented | gravestone
+Gravitation Suite | In Progress | gravisuite
 Guide API | Not Implemented | guideapi
 Immersive Engineering | In Progress | immersiveengineering / minecraft
 Immersive Petroleum | Not Implemented | immersivepetroleum
